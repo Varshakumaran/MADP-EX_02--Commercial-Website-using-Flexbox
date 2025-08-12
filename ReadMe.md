@@ -284,6 +284,9 @@ Upload to GitHub Pages for free hosting.
 ```
 
 ## OUTPUT
+<img width="1920" height="1080" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/5933a27f-2c34-4f60-8129-c425339d61a2" />
+<img width="1920" height="1080" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/a74ff296-2e31-47a0-b2f2-760b7fd97e06" />
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/56972598-9164-42a8-9250-5d48ae4ea102" />
 
 
 ## RESULT
